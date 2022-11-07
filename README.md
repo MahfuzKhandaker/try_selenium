@@ -32,4 +32,3 @@ We can simply clear the textarea field:
 ```
 element.clear()
 ```
-## Filling in forms
